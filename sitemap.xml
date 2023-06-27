@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://syui.ai/hugo-theme-air/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/post/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/post/test/</loc>
+    <lastmod>2023-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/post/test/</loc>
+    <lastmod>2023-06-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/ai/</loc>
+    <lastmod>2023-06-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/scene/</loc>
+    <lastmod>2023-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/credits/</loc>
+    <lastmod>2023-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/categories/</loc>
+  </url><url>
+    <loc>https://syui.ai/hugo-theme-air/tags/</loc>
+  </url>
+</urlset>

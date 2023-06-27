@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Do not click here</title>
+    <link>https://syui.ai/hugo-theme-air/</link>
+    <description>Recent content on Do not click here</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.ai/hugo-theme-air/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prefatory Greeting</title>
+      <link>https://syui.ai/hugo-theme-air/post/test/</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.ai/hugo-theme-air/post/test/</guid>
+      <description>echo &amp;#34;Hello World!&amp;#34; </description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://syui.ai/hugo-theme-air/post/test/</link>
+      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.ai/hugo-theme-air/post/test/</guid>
+      <description>The development of AI has always begotten the question of whether such an entity has the capability to replace human effort in various fields. The essay &amp;ldquo;AI should augment human intelligence, not replace it&amp;rdquo; presented by David De Cremer and Garry Kasparov discusses such questions through an interesting and knowledgeable set of eyes. Our group has decided to convey the themes and messages associated with and conveyed through the essay in the form of a website.</description>
+    </item>
+    
+    <item>
+      <title>The Future of AI</title>
+      <link>https://syui.ai/hugo-theme-air/ai/</link>
+      <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.ai/hugo-theme-air/ai/</guid>
+      <description>The conflicting sentiments behind AI on whether it’ll result in human devastation or development has been going on since the 1920 play &amp;ldquo;Rossum&amp;rsquo;s Universal Robots&amp;rdquo; by Czech writer Karel Čapek, which introduced the word &amp;ldquo;robot&amp;rdquo; to describe artificial workers created by humans. In the play, the robots rebel against their creators and eventually take over the world. Over the years, AI has been grossly misunderstood by many and the conglomerates who understand it want to capitalize AI as a commodity only affordable by the privileged.</description>
+    </item>
+    
+    <item>
+      <title>Claim, Warrant &amp; Evidence</title>
+      <link>https://syui.ai/hugo-theme-air/scene/</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.ai/hugo-theme-air/scene/</guid>
+      <description>Claim : AI should augment human intelligence, not replace it
+Warrant : An effective and efficient use of resources for development is always appreciated.
+Evidence : AI can never truly replace human beings as they are incapable of taking into consideration the complexities of morality, culture and emotions. Since AI can use pre existing knowledge and apply it to complete tasks with efficiency and accuracy, to a considerable degree, it is an asset.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>https://syui.ai/hugo-theme-air/credits/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://syui.ai/hugo-theme-air/credits/</guid>
+      <description>Source Essay -&amp;gt; &amp;ldquo;https://hbr.org/2021/03/ai-should-augment-human-intelligence-not-replace-it&amp;quot; &amp;ldquo;Harvard Business Review&amp;rdquo;
+Image 1 (Generic Image) -&amp;gt; &amp;ldquo;https://www.analyticsinsight.net/wp-content/uploads/2020/08/Artificial-Intelligence-7.jpg&amp;quot;
+Image 2 (Tweet) -&amp;gt; &amp;ldquo;https://twitter.com/FromHappyRock&amp;quot;
+Website Development Platform -&amp;gt; &amp;ldquo;https://gohugo.io/&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>
